@@ -7,6 +7,8 @@ This project aims to solve two main questions:
   
   2. How does the prevalence of sexual harassment vary across different social classes in Spain, USA, and Argentina?
 
+To answer these, several data sources for each different country have been used and data for each country has been manipulated to establish the social classes.
+
 
 ## Notebooks
 
