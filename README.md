@@ -56,7 +56,9 @@ statsmodels
 
 ## Suggestions for Future Work
 Expand the study to include additional countries and regions to further understand the relationship between social class and sexual harassment.
+
 Develop and administer standardized surveys with comparable questions across countries to ensure more reliable data for comparison.
+
 Investigate the impact of various factors, such as the #MeToo movement, new laws targeting sexual harassment, and the COVID-19 pandemic, on sexual harassment trends.
 
 
