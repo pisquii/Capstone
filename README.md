@@ -26,9 +26,6 @@ To answer these, several data sources for each different country have been used 
   
   · 'Correlation.ipynb' Jupyter notebook containing the analysis of the combined datasets, including correlations and comparisons among countries.
   
- ##  Data
-The data/ directory contains the raw data for each country, separated into individual subdirectories. The data for this study was obtained from various sources, such as government databases, international organizations, and academic research. Please refer to the thesis for a detailed description of the data sources and methodology.
-  
 ## Dependencies
 This project requires the following Python packages:
 
